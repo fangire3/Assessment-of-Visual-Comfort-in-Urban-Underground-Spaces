@@ -31,7 +31,7 @@ The assistant response follows:
 
 ## Image Files
 
-Images are not included in this repository. To request the original image data, please contact biaozhou@tongji.edu.cn.
+Images are not included in this repository. To request the original image data, please contact zhoubiao@tongji.edu.cn.
 
 Recommended placement after copying the dataset into LLaMA-Factory:
 
