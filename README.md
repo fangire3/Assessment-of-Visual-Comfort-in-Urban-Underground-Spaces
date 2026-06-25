@@ -142,4 +142,4 @@ Main training settings:
 
 ## Notes
 
-- To request the original image data, please contact biaozhou@tongji.edu.cn.
+- To request the original image data, please contact zhoubiao@tongji.edu.cn.
